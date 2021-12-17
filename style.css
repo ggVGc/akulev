@@ -71,3 +71,6 @@ code {
 
 img[alt=front] { width: 50%; }
 img[alt=logo] { width: 90%; }
+img[alt=schlieren] {
+  width: 80%;
+}
