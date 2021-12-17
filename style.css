@@ -69,5 +69,5 @@ code {
   padding: 15px;
 }
 
-.front { width: 50%; }
+img[alt=front] { width: 50%; }
 img[alt=logo] { width: 90%; }
