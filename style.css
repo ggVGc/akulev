@@ -38,7 +38,7 @@ h1, h2, h3 {
 }
 
 .remark-slide-content {
-  font-size: 1.8em; 
+  font-size: 1.7em; 
   background-color: #fffefa;
 }
 
@@ -71,6 +71,13 @@ code {
 
 img[alt=front] { width: 50%; }
 img[alt=logo] { width: 90%; }
-img[alt=schlieren] {
-  width: 80%;
+img[alt=setup_1] { width: 100%; }
+img[alt=schlieren] { width: 100%; }
+img[alt=levitation_theory] { width: 100%; }
+.cols {
+  display: flex;
+}
+
+.fifty {
+  flex: 50%;
 }
